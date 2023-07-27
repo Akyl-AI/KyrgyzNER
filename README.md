@@ -17,7 +17,7 @@ The primary objective of this project is to develop golden NER dataset for Kyrgy
 - Evaluation: Our model's performance is meticulously evaluated through standard metrics, cross-validation techniques, and comparisons with existing NER systems to showcase its effectiveness and advancement over baseline models.
 
 # Contribution
-We express our deep gratitude to all volunteers of the project and  students of KSTU, who helped us with labeling and annotating all texts. A list of contributors can be found here.
+We express our deep gratitude to all volunteers of the project and  students of KSTU, who helped us with labeling and annotating all texts. A list of contributors can be found [here](volunteers.md).
 Also we thank Dr.. Gulnara Kabaeva and Dr. Gulira Zhumalieva for their support in the development of this project.
 
 We welcome contributions from NLP community and researchers interested in advancing the field. Feel free to raise issues, submit pull requests, or provide feedback on how we can improve the model and its implementation.
