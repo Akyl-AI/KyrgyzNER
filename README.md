@@ -4,6 +4,8 @@ Welcome to our Named-Entity Recognition (NER) project for the Kyrgyz language! T
 # Usage
 The dataset and code will be released soon!
 
+[Model on HuggingFace](https://huggingface.co/TTimur/xlm-roberta-base-kyrgyzNER#how-to-use)
+
 # What is Named-Entity Recognition?
 Named-Entity Recognition is a crucial natural language processing (NLP) task that involves identifying and classifying entities such as names of people, locations, organizations, dates, and more within a given text. This process plays a vital role in various NLP applications like information retrieval, sentiment analysis, and machine translation.
 
